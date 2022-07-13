@@ -8,4 +8,5 @@ This repository is not meant to be used. It's just a personal example for traini
 ## Run
 
 To run the project, clone it and run Love2d on the root dir.
+
 You can also download the standalone binaries for Linux and Windows on the /binaries/ dir.
